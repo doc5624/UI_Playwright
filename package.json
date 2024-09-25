@@ -1,0 +1,16 @@
+{
+  "name": "ui_playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "YD",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.5.5"
+  }
+}
